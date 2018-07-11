@@ -1,1 +1,2 @@
-print(100+200+300)
+name = input('Please enter your name:') 
+print('hello:',name)
