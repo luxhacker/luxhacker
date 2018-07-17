@@ -11,6 +11,6 @@ def factA(num,product):
 		return product
 	return factA(num - 1, num * product)
 
-print(factA(1000,1))
+print(factA(100,1))
 	
 	
